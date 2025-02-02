@@ -1,4 +1,4 @@
-import langDefault from './lang/enUK';
+import langDefault from './lang/ptBR';
 
 let lang = langDefault;
 
